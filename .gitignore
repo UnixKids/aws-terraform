@@ -1,2 +1,4 @@
-*terrform*
-*.terrform*
+*.terraform
+*terraform*
+*.env
+*idea*
